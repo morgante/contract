@@ -13,12 +13,12 @@ Every month I will donate 2% of my income for that month to an effective altruis
 - Evidence
     - A screenshot of Mint's monthly income statement proves income for that month.
     - Email receipts from charities prove contributions.
-- Fine: if I have not donated the requisite amount, I must donate an additiona 3%.
+- Fine: if I have not donated the requisite amount, I must donate 3%.
 - Judge: nominations open
 
 ## Bequeath
 
-When I die, everything I own, except for $50,000 my parents, will be given to the Against Malaria Foundation.
+When I die, everything I own except for $50,000 for my parents, will be given to the Against Malaria Foundation.
 
 - Notes
     - $25,000 should be taken off the top and given to my dad.
