@@ -36,3 +36,16 @@ Never do something which you would not admit to Daniel Brown.
     - If I do it, I will Venmo Dan without having to explain what I did.
 - Fine: $500
 - Judge: Daniel Brown
+
+## Romance
+
+Express romantic interest in at least three women per week.
+
+- Notes
+    - Finding a romantic partner is likely one of the best ways to solidify my social life.
+    - If I don't push myself to try, I likely will not.
+    - This can include online messages.
+- Evidence
+    - Evidence must be presented to the Judge in the form of screenshots or an explanation.
+- Fine: $250
+- Judge: Ben Yu?
