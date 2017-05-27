@@ -12,7 +12,7 @@ Do not eat more than 24 grams of net carbs per day.
 - Evidence
     - If I break this, I will tell the Judge.
 - Fine: $100 for each day
-- Judge: Jason Marmon?
+- Judge: Jason Marmon
 
 ## Cardio
 
