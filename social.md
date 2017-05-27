@@ -35,7 +35,7 @@ Never do something which you would not admit to Daniel Brown.
 - Evidence
     - If I do it, I will Venmo Dan without having to explain what I did.
 - Fine: $500
-- Judge: Daniel Brown?
+- Judge: Daniel Brown
 
 ## Romance
 
