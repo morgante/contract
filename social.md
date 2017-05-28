@@ -12,7 +12,7 @@ I need to talk to at least one person every day.
 - Evidence
     - I will log this interaction into my notebook.
 - Fine: $10 for every day which I don't talk to someone
-- Judge: nominations open
+- Judge: Juan Felipe Beltrán
 
 ## Honesty
 
