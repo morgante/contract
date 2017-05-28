@@ -23,7 +23,7 @@ Do not deceive others.
 - Evidence
     - If I do this, I will admit it to the Judge.
 - Fine: $5 to $1,000 depending on the self-assessed severity of the lie.
-- Judge: nominations open
+- Judge: Juan Felipe Beltrán
 
 ## Authenticity
 
