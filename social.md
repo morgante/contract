@@ -37,15 +37,14 @@ Never do something which you would not admit to Daniel Brown.
 - Fine: $500
 - Judge: Daniel Brown
 
-## Romance
+## Social Expansion
 
-Express romantic interest in at least three women per week.
+Do something with someone new every week.
 
 - Notes
-    - Finding a romantic partner is likely one of the best ways to solidify my social life.
-    - If I don't push myself to try, I likely will not.
-    - This can include online messages.
+    - This aims to expand my social circle and to build new relationships (with friends *or* potential romantic partners).
+    - It can be with an existing connection but must be the first time we explicitly do something together that is not incidental to our professional/social interactions.
 - Evidence
-    - Evidence must be presented to the Judge in the form of screenshots or an explanation.
+    - Evidence must be kept in a journal.
 - Fine: $250
 - Judge: Ben Yu?
