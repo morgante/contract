@@ -16,7 +16,7 @@ Do not eat more than 24 grams of net carbs per day.
 
 ## Cardio
 
-Engage in at least 15 minutes of cario exercise per day.
+Engage in at least 15 minutes of cardio exercise per day.
 
 - Notes
     - This must elevate my heart rate.
