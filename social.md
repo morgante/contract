@@ -47,5 +47,6 @@ Be kind to those around you and never be mean.
     - Ideally this would trend towards greater empathy, but I am too weak in that area to even define it more clearly.
 - Evidence
     - I will keep a journal of any unkind interactions
-- Fine: $100
+    - In this journal, I will log what an alternative *kinder* behavior would have been.
+- Fine: $10 to $1000, based on the size of the gap between the unkind behavior and the kinder alternative.
 - Judge: nominations open
