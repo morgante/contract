@@ -4,11 +4,9 @@ As improving the net utility of humanity is my primary goal, donating to effecti
 
 ## Monthly Donations
 
-Every month I will donate 2% of my income for that month to an effective altruism charity of my choice.
+Every month I will donate 2% of my income for that month to charities of my choice.
 
 - Notes
-    - Charities must be approved by [GiveWell](http://www.givewell.org/charities/top-charities).
-    - Any donations to non-EA organizations do not count towards this amount.
     - Monthly income is calculated from Mint.
 - Evidence
     - A screenshot of Mint's monthly income statement proves income for that month.
