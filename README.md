@@ -33,4 +33,4 @@ The primary mechanism for enforcing this contract is through fines for non-compl
 
 ## Term
 
-This contract goes into effect on June 1, 2017. Any changes to it go into effect 12 hours after they are merged into the master branch. I shall decide what changes are merged and can merge changes to remove clauses if I so desire.
+This contract went into effect on June 6, 2017. Any changes to it go into effect 12 hours after they are merged into the master branch. I shall decide what changes are merged and can merge changes to remove clauses if I so desire.
