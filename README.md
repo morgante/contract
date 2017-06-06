@@ -2,6 +2,16 @@
 
 This is a personal contract between Morgante Pell ("I" or "me") and the world ("Life"). It is not legally enforcable, but includes built-in accountability mechanisms.
 
+## Clause Index
+
+1. [Ketogenic diet](./health.md#diet)
+2. [Daily cardio](./health.md#cardio)
+3. [Monthly donations](./philanthropy.md#monthly-donations)
+4. [Bequeath](./philanthropy.md#bequeath)
+5. [Socialize daily](./social.md#socialize)
+6. [Honesty](./social.md#honesty)
+7. [Authenticity](./social.md#authenticity)
+
 ## Moral Philosophy
 
 Life has imbued me with substantial compensation for engaging in this contract. In addition to the basic gift of existence, I have received numerous advantages which put me in the 99th percentile of priviledge worldwide. As a white American male of above average intelligence, merely surviving Life has never been in doubt. Thus, in exchange for this tremendous gift, I believe I have an obligation to Life to improve the net utility of humanity.
