@@ -24,4 +24,4 @@ Engage in at least 15 minutes of cardio exercise per day.
 - Evidence
     - A photo of an exercise machine or activity tracker is sufficient.
 - Fine: $50 for each day
-- Judge: nominations open
+- Judge: Juan Felipe Beltrán
