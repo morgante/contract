@@ -36,3 +36,15 @@ Never do something which you would not admit to Daniel Brown.
     - If I do it, I will Venmo Dan without having to explain what I did.
 - Fine: $500
 - Judge: Daniel Brown
+
+## Social Expansion
+
+Do something with someone new every week.
+
+- Notes
+    - This aims to expand my social circle and to build new relationships (with friends *or* potential romantic partners).
+    - It can be with an existing connection but must be the first time we explicitly do something together that is not incidental to our professional/social interactions.
+- Evidence
+    - Evidence must be kept in a journal.
+- Fine: $250
+- Judge: Steve Dean
