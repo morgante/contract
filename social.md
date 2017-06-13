@@ -47,4 +47,4 @@ Do something with someone new every week.
 - Evidence
     - Evidence must be kept in a journal.
 - Fine: $250
-- Judge: Ben Yu?
+- Judge: Steve Dean
