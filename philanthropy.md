@@ -12,7 +12,7 @@ Every month I will donate 2% of my income for that month to charities of my choi
     - A screenshot of Mint's monthly income statement proves income for that month.
     - Email receipts from charities prove contributions.
 - Fine: if I have not donated the requisite amount, I must donate 3%.
-- Judge: nominations open
+- Judge: Ben Yu
 
 ## Bequeath
 
@@ -25,4 +25,4 @@ When I die, everything I own except for $50,000 for my parents, will be given to
 - Evidence
     - I will create a will to enforce this.
 - Fine: if I have not created a will for this by July 15, 2017 then I must donate $5,000 to the Against Malaria Foundation.
-- Judge: nominations open
+- Judge: Ben Yu
