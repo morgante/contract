@@ -1,3 +1,5 @@
+**As of September 25, 2017 this contract is temporarily spended while I work to refine my Q4 OKRs and mechanisms.**
+
 # Personal Contract
 
 This is a personal contract between Morgante Pell ("I" or "me") and the world ("Life"). It is not legally enforcable, but includes built-in accountability mechanisms.
