@@ -1,4 +1,4 @@
-**As of September 25, 2017 this contract is temporarily spended while I work to refine my Q4 OKRs and mechanisms.**
+**As of September 25, 2017 this contract is temporarily suspended while I work to refine my Q4 OKRs and mechanisms.**
 
 # Personal Contract
 
