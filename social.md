@@ -9,8 +9,6 @@ I need to talk to at least one person every day.
 - Notes
     - This must be in person, not online.
     - This cannot be a purely professional or transactional conversation, though it *can* start in that context.
-- Evidence
-    - I will log this interaction into my notebook.
 - Fine: $10 for every day which I don't talk to someone
 - Judge: Juan Felipe Beltrán
 
