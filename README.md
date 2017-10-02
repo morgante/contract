@@ -7,7 +7,7 @@ This is a personal contract between Morgante Pell ("I" or "me") and the world ("
 ## Clause Index
 
 1. [Ketogenic diet](./health.md#diet)
-2. [Daily cardio](./health.md#cardio)
+2. ~~[Daily cardio](./health.md#cardio)~~
 3. [Monthly donations](./philanthropy.md#monthly-donations)
 4. [Bequeath](./philanthropy.md#bequeath)
 5. [Socialize daily](./social.md#socialize)

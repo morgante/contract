@@ -14,9 +14,11 @@ Do not eat more than 24 grams of net carbs per day.
 - Fine: $100 for each day
 - Judge: Jason Marmon
 
-## Cardio
+## ~~Cardio~~
 
-Engage in at least 15 minutes of cardio exercise per day.
+**This clause is suspended while I recover from an injury.**
+
+~~Engage in at least 15 minutes of cardio exercise per day.~~
 
 - Notes
     - This must elevate my heart rate.
