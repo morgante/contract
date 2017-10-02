@@ -37,7 +37,7 @@ Never do something which you would not admit to Daniel Brown.
 
 ## Social Expansion
 
-Do something with someone new every week.
+Do something with someone new twice a month.
 
 - Notes
     - This aims to expand my social circle and to build new relationships (with friends *or* potential romantic partners).
