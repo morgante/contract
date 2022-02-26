@@ -6,13 +6,13 @@ The primary purpose of this contract is to remind myself of my values. In partic
 
 ## Clause Index
 
-1. [Ketogenic diet](./health.md#diet)
-2. ~~[Daily cardio](./health.md#cardio)~~
-3. [Monthly donations](./philanthropy.md#monthly-donations)
-4. [Bequeath](./philanthropy.md#bequeath)
-5. [Socialize daily](./social.md#socialize)
-6. [Honesty](./social.md#honesty)
-7. [Authenticity](./social.md#authenticity)
+1. [Daily cardio](./health.md#cardio)
+1. [Monthly donations](./philanthropy.md#monthly-donations)
+1. [Bequeath](./philanthropy.md#bequeath)
+1. [Socialize daily](./social.md#socialize)
+1. [Honesty](./social.md#honesty)
+1. [Authenticity](./social.md#authenticity)
+1. [Meet new people](./social.md#meet-new-people)
 
 ## Moral Philosophy
 

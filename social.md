@@ -37,7 +37,7 @@ Never do something which you would not admit to Daniel Brown.
 - Fine: $500
 - Judge: Daniel Brown
 
-## Social Expansion
+## Meet new people
 
 Do something with someone new once a month.
 
