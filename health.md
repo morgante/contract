@@ -1,6 +1,6 @@
 # Health Commitments
 
-Improving my physical health is critical to extending my longevity and can also factor into my productivity/happiness.
+Improving my physical health is critical to extending my longevity and also factors heavily productivity/happiness.
 
 ## Diet
 

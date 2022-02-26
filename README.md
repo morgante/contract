@@ -1,6 +1,8 @@
 # Personal Contract
 
-This is a personal contract between Morgante Pell ("I" or "me") and the world ("Life"). It is not legally enforcable, but includes built-in accountability mechanisms.
+This is a personal contract between Morgante Pell ("I" or "me") and myself. It is not legally enforcable, but includes built-in accountability mechanisms.
+
+The primary purpose of this contract is to remind myself of my values. In particular, it strikes a balance between normative and positive theories: how can I act as effectively as possible, given the person I am today.
 
 ## Clause Index
 
@@ -25,7 +27,7 @@ Another comparison could be through a [BATNA](https://en.wikipedia.org/wiki/Best
 The final metric could be to try to do the absolute most amount of good possible. This is a lofty goal and is likely unachievable for the vast majority of humans (including myself) who require some aspect of their effort to be translated into personal utility. However, it is a useful upper bound, especially for long-term [philanthropy](./philanthropy.md).
 
 ## Personal Life
-Given the moral terms of this contract, it is not immediately obvious that any commitments besides the [philanthropic](./philanthropy.md) clauses should be necessary. However, the truth is that as much as I aspire to be a philanthropy-generating [robot](#embracing-the-robot), I am still human and have normal human desires. That being said, I find it psychologically useful to justify expenditure on myself in terms of their service to this contract's mission.
+Given the moral terms of this contract, it is not immediately obvious that any commitments besides the [philanthropic](./philanthropy.md) clauses should be necessary. However, the truth is that as much as I might aspire to be a philanthropy-generating robot, I am still human and have normal human desires. That being said, I find it psychologically useful to justify expenditure on myself in terms of their service to this contract's mission.
 
 To do so, it is important to recognize that the primary value I produce is dollars which can be transferred to effective altruism organizations. The primary way I produce those dollars is through my intellectual labor, which means anything which can improve my productivity and life span is valuable for the mission.
 
@@ -33,13 +35,13 @@ My anecdotal experience shows that trying to only work and sleep yields diminish
 
 Additionally, as my labor is my primary means of generating value, extending my life span has a tremendous ROI for humanity's utility. Conservatively speaking, under the terms of my [philanthropic commitments](./philanthropy.md), every year of productive work I add provides an additional $50,000 2017 dollars towards improving humanity. As such, most of the personal commitments in this contract aim to improve the length of my lifespan while ensuring I also provide value for those around me. In particular, [sustaining friendships](http://www.livescience.com/6769-live-longer-friends.html) and [finding a romantic partner](http://www.health.harvard.edu/newsletter_article/marriage-and-mens-health) are both scientifically validated factors in longevity, hence them forming the basis of my [social commitments](./social.md). Of course, most of my [health commitments](./health.md) are also designed to improve longevity.
 
-## Embracing the Robot
+## Incentive Mechanisms
 
-While this contract might seem excessively strict and robotic to most people, the truth is that I make a terrible human but a pretty decent robot. Without prior commitments and left completely to my own devices, I typically revert to a lifestyle of only eating, sleeping, working, and reading—a lifestyle which is unsustainable in the long run. However, I respond very well to incentives and commitment frameworks. Hence, this contract is an attempt to program healthier behavior into my life and to codify my personal expectations.
+The primary audience for this contract is myself. It is an attempt to reduce the cognitive load of short-term decision-making by allowing me to pre-code certain decisions.
 
-In addition, when designing clauses I place a heavy emphasis on reducing decision-making. Doing the right thing is often hard enough, but this can be especially challenging when compounded by the mental effort of deciding what the right thing is. Hence, this contract is designed as a way for me to live my life while minimizing the mental load of daily decisions.
+Thus, when designing clauses I place a heavy emphasis on reducing decision-making. Doing the right thing is often hard enough, but this can be especially challenging when compounded by the mental effort of deciding what the right thing is. Hence, this contract is designed as a way for me to live my life while minimizing the mental load of daily decisions.
 
-The primary mechanism for enforcing this contract is through fines for non-compliance. Every clause of this contract includes specified individuals ("Judges") who are responsible for judging compliace with that clause and enforcing fees for non-compliance. Fines are paid to Judges unless otherwise noted.
+I have historically tried various incentive mechanisms (ex. fines for non-compliance), but in practice those mechanisms were [quickly abandoned](https://github.com/morgante/contract/commit/2f417d53fbb7b4e3bf748cdb8955ba39e87ea441). Therefore, a secondary focus is on *accuracy*. This contract is not meant to be excessively aspirational—it is meant to dictate how I should act *today*, not how a hypothetical future (improved) Morgante should act in the future. 
 
 ## Term
 
