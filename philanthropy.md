@@ -4,25 +4,17 @@ As improving the net utility of humanity is my primary goal, donating to effecti
 
 ## Monthly Donations
 
-Every month I will donate 2% of my income for that month to charities of my choice.
+Every month I will donate 2% of my income for that month to my donor-advised Fund.
 
-- Notes
-    - Monthly income is calculated from Mint.
-- Evidence
-    - A screenshot of Mint's monthly income statement proves income for that month.
-    - Email receipts from charities prove contributions.
-- Fine: if I have not donated the requisite amount, I must donate 3%.
-- Judge: Ben Yu
+For efficiency purposes, the actual donation can happen less frequently so long as I reconcile it later in my spreadsheet.
+
+Evidence: [Spreadsheet](https://docs.google.com/spreadsheets/d/1pyZypJsbmQrXX2KMi5YZTxSiEOJeWoKpPr3Mqe4wI9U/edit#gid=652665513)
 
 ## Bequeath
 
-When I die, everything I own except for $50,000 for my parents, will be given to the Against Malaria Foundation.
+When I die, everything I own (except for $50,000 for my parents), will be given to the Against Malaria Foundation.
 
 - Notes
     - $25,000 should be taken off the top and given to my dad.
     - Another $25,000 should be given to my mother.
     - Everything left over should be liquidated and donated to the AMF in the most effective way possible.
-- Evidence
-    - I will create a will to enforce this.
-- Fine: if I have not created a will for this by July 15, 2017 then I must donate $5,000 to the Against Malaria Foundation.
-- Judge: Ben Yu
