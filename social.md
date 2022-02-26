@@ -1,6 +1,8 @@
 # Social Commitments
 
-Despite being aimed towards others, these commitments are the most selfish ones in the contract. Their primary purpose is to sustain my happiness and will to live, while ensuring I can also create positive value for those around me. It is particularly important for me to focus on creating positive value as in the past I have been a negative net influence on those around me.
+Despite being aimed towards others, these commitments are the most selfish ones in the contract.
+Their primary purpose is to sustain my happiness and will to live, while ensuring I can also create positive value for those around me.
+It is particularly important for me to focus on creating positive value as in the past I have been a negative net influence on those around me.
 
 ## Socialize
 
@@ -10,7 +12,6 @@ I need to talk to at least one person every day.
     - This must be in person, not online.
     - This cannot be a purely professional or transactional conversation, though it *can* start in that context.
 - Fine: $10 for every day which I don't talk to someone
-- Judge: Juan Felipe Beltrán
 
 ## Honesty
 
@@ -18,10 +19,11 @@ Do not deceive others.
 
 - Notes
     - Creating false impressions without explicitly lying is still deceptive.
+    - This does not apply in game environments where deception is expected (ex. poker or Diplomacy).
 - Evidence
     - If I do this, I will admit it to the Judge.
 - Fine: $5 to $1,000 depending on the self-assessed severity of the lie.
-- Judge: Juan Felipe Beltrán
+- Judge: Andrea Morgante
 
 ## Authenticity
 
@@ -37,7 +39,7 @@ Never do something which you would not admit to Daniel Brown.
 
 ## Social Expansion
 
-Do something with someone new twice a month.
+Do something with someone new once a month.
 
 - Notes
     - This aims to expand my social circle and to build new relationships (with friends *or* potential romantic partners).
@@ -45,4 +47,4 @@ Do something with someone new twice a month.
 - Evidence
     - Evidence must be kept in a journal.
 - Fine: $250
-- Judge: Steve Dean
+- Judge: Daniel Brown
