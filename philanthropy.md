@@ -4,7 +4,7 @@ As improving the net utility of humanity is my primary goal, donating to effecti
 
 ## Monthly Donations
 
-Every month I will donate 2% of my income for that month to my donor-advised Fund.
+Every month I will donate 2.5% of my income for that month to my donor-advised fund.
 
 For efficiency purposes, the actual donation can happen less frequently so long as I reconcile it later in my spreadsheet.
 
