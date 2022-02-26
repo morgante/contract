@@ -13,6 +13,7 @@ The primary purpose of this contract is to remind myself of my values. In partic
 1. [Honesty](./social.md#honesty)
 1. [Authenticity](./social.md#authenticity)
 1. [Meet new people](./social.md#meet-new-people)
+1. [Daily reflections](./personal.md#daily-reflections)
 
 ## Moral Philosophy
 
