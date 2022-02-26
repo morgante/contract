@@ -8,10 +8,11 @@ It is particularly important for me to focus on creating positive value as in th
 
 I need to talk to at least one person every day.
 
-- Notes
-    - This must be in person, not online.
-    - This cannot be a purely professional or transactional conversation, though it *can* start in that context.
-- Fine: $10 for every day which I don't talk to someone
+This cannot be a purely professional or transactional conversation, though it *can* start in that context.
+
+This can be online, over voice, or in person. It cannot be text-based.
+
+**Fine: $10 for every day which I don't talk to someone.**
 
 ## Honesty
 
