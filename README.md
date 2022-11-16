@@ -7,6 +7,14 @@ The primary purpose of this contract is to remind myself of my values. In partic
 
 While I haven't upheld many of the [clauses](./archive), the basic moral philosophy underlying the contract hasn't changed.
 
+## Principles
+
+1. Work is intrinsically valuable. It is hard to live a meaningful life without producing things of value, and I derive signifciant personal satisfaction from building things. Working hard is a virtue, and most of my life is spent working.
+2. Giving more than I take is important, in relationships and in society. I want to be a net positive force in the world.
+3. The world is filled with problems, but problems can be solved given time, rational thought, and effort. I seek out high leverage problems.
+4. Relationships are measured in decades, not hours. I don't spend a lot of time with people, but I am deeply loyal to the people I care about.
+5. Winning is fun. I enjoy winning, and I enjoy helping others win. Healthy competition is a good thing for society and for individuals.
+
 ## Moral Philosophy
 
 Life has imbued me with substantial compensation for engaging in this contract.
